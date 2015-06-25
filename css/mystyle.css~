@@ -3,6 +3,6 @@
 	 border-color:todo;
 	 */ }
 
-body{
+nav{
 	font-size: 25px;
 }
