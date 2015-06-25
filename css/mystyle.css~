@@ -2,3 +2,7 @@
 	/*background-color:todo;
 	 border-color:todo;
 	 */ }
+
+body{
+	font-size: 25px;
+}
